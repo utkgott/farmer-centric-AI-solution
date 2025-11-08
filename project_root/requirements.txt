@@ -1,0 +1,16 @@
+
+
+# Core Streamlit application framework
+streamlit
+
+# Data handling and processing
+pandas
+requests 
+
+# PyTorch and other dependencies for the Detector model
+# NOTE: Using the CPU version is often easiest for deployment.
+# You may need to pin specific versions if you encounter conflicts.
+torch
+# Include specific libraries for your LLM and detector, e.g.:
+# transformers 
+# pillow
