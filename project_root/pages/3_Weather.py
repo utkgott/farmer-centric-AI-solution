@@ -9,7 +9,7 @@ st.set_page_config(
     layout="wide"
 )
 
-st.title("Weather Tracker")
+st.title("🌤️Weather Tracker")
 st.markdown("---")
 
 # ----------------------
