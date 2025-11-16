@@ -1,0 +1,22 @@
+# Core Streamlit application framework
+streamlit
+
+# Data handling and processing
+pandas
+requests
+
+# Hugging Face model support
+transformers
+sentencepiece  # Often required by tokenizers
+
+# Image model support
+timm
+
+# Image processing
+Pillow
+
+# PyTorch for model inference
+# NOTE: For GPU support, visit https://pytorch.org/get-started/locally/
+# and install the version that matches your CUDA setup.
+torch
+torchvision
